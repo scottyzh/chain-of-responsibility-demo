@@ -1,0 +1,7 @@
+server: # 服务器的HTTP端口
+  port: 8187 #端口
+  disableUploadTimeout: false
+  servlet:
+    context-path: / #应用的访问路径
+
+
